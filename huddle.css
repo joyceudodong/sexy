@@ -1,0 +1,156 @@
+.first-section{
+background: url("images/bg-hero-desktop.svg");
+height: 100vh;
+background-position: cemter;
+background-size: cover;
+padding-top: 50px;
+}
+.ourbutton{
+    background-color: white;
+    border-style: none;
+    width: 200px;
+    height: 50px;
+    /* padding: 10px 10px 10px 10px; */
+    border-radius: 25px;
+    font-size: 25px;
+    /* font-style: italic; */
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: black;
+    border: 1px;
+}
+.second-section{
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-evenly;
+}
+.button1{
+    border-radius: 25px;
+    border: 1px;
+    width: 300px;
+    height: 60px;
+    background-color: palevioletred;
+    cursor: pointer;
+    color: white;
+    margin-top: 20px;
+
+}
+.secondpicture{
+    height: 500px;
+    width: 650px;
+}
+.header1{
+    font-size: 50px;
+    padding-top: 100px;
+}
+.section-three{
+    background-color: white;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    border: 1px solid white;
+    margin-top: 50px;
+
+}
+.thirdpicture{
+    height: 300px;
+    width: 300px;
+}
+.header2{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.secondheader{
+    padding-top: 100px;
+    justify-items: center;
+}
+.section-four{
+    background-color: white;
+    height: 50vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    border: 1px solid white;
+    margin-top: 50px;
+}
+.forthpicture{
+    height: 300px;
+    width: 300px; 
+}
+.header3{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.thirdheader{
+    padding-top: 100px;
+    justify-items: center;
+}
+.section-five{
+    background-color: white;
+    height: 60vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+.fifthpicture{
+    height: 300px;
+    width: 300px; 
+}
+.header4{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.forthheader{
+    padding-top: 100px;
+    justify-items: center; 
+}
+.section-six{
+    /* border: 1px solid;
+    height: 200px;
+    width: 700px;
+    margin-left: 350px; */
+    color: black;
+    justify-content: center;
+    /* padding-left: 500px; */
+    background-color:  white;
+    text-align: center;
+    width: 800px;
+    height: 200px;
+    border: 1px solid white;
+    margin-left: 200px;
+    margin-top: 50px;
+    position: relative;
+    top: 70px;
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 4%;
+
+}
+.lite{
+    font-size: 35px;
+}
+#free{
+    border: 1px solid rgb(19, 24, 19);
+    height: 500px;
+    width: auto;
+    padding-top: 200px;
+    background-color: rgb(8, 20, 8);
+    color: white;
+
+}
+.email{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 5px;
+    padding-top: 50px;
+  }
+.set{
+    /* justify-self: left;
+    padding-left: 5px; */
+}
+.image{
+    padding-left: 100px;
+    color: white;
+    opacity: 9.8;
+    filter: alpha(opacity=50);
+}
